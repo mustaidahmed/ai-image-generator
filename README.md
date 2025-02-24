@@ -15,12 +15,15 @@ The AI Image Generator is a web application that uses Stable Diffusion 2.1 to ge
 Open the provided local URL in your browser to interact with the image generator.
 
 📁 Project Structure
-Copy
+
+
+
 📂 ai-image-generator
 ├── 📄 app.py               # Main Gradio app
 ├── 📄 requirements.txt     # Dependencies
 ├── 📄 README.md            # Project documentation
-└── 📂 other_files          # Any additional files
+
+
 ▶️ Usage
 Enter a text prompt in the input box (e.g., "a dragon attacking a village").
 
