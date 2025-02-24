@@ -57,25 +57,6 @@ Run the cells to launch the Gradio interface.
 
 Click the Gradio link to open the web app and start generating images.
 
-2. Running Locally
-Clone this repository:
-
-bash
-Copy
-git clone https://github.com/your-username/stable-diffusion-gradio.git
-cd stable-diffusion-gradio
-Install the required libraries:
-
-bash
-Copy
-pip install -r requirements.txt
-Run the Python script:
-
-bash
-Copy
-python app.py
-Open the Gradio link provided in the terminal to access the web app.
-
 Usage
 Enter a text prompt in the input box (e.g., "a dragon attacking a village").
 
